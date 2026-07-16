@@ -5,19 +5,19 @@
     <lastmod>2026-07-16</lastmod>
   </url>
   <url>
-    <loc>https://dev.ob5.de/impressum/</loc>
-    <lastmod>2026-07-16</lastmod>
-  </url>
-  <url>
     <loc>https://dev.ob5.de/agb/</loc>
     <lastmod>2026-07-16</lastmod>
   </url>
   <url>
-    <loc>https://dev.ob5.de/urheberrecht/</loc>
+    <loc>https://dev.ob5.de/datenschutz/</loc>
     <lastmod>2026-07-16</lastmod>
   </url>
   <url>
-    <loc>https://dev.ob5.de/datenschutz/</loc>
+    <loc>https://dev.ob5.de/impressum/</loc>
+    <lastmod>2026-07-16</lastmod>
+  </url>
+  <url>
+    <loc>https://dev.ob5.de/urheberrecht/</loc>
     <lastmod>2026-07-16</lastmod>
   </url>
 </urlset>
